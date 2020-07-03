@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+
+train:
+    batch_size: 128
+    epochs: 15
+target_size:
+    img_height: 150
+    img_width: 150
