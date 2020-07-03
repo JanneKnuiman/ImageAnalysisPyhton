@@ -1,5 +1,6 @@
-# Image Analyzing
-Image Analysis - project group 6: Valerie Verhalle, Sanne Schroduer &amp; Janne Knuiman
+# Image Analyzing Python
+Image Analysis Pyhton Project - project group 6: Valerie Verhalle, Sanne Schroduer &amp; Janne Knuiman
+See other repository: Image analysis R Project
 
 Start date: 02-03-2020
 
