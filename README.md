@@ -1,4 +1,4 @@
-# Image Analysis pg6
+# Image Analyzing
 Image Analysis - project group 6: Valerie Verhalle, Sanne Schroduer &amp; Janne Knuiman
 
 Start date: 02-03-2020
